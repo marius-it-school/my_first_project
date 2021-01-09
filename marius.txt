@@ -1,2 +1,2 @@
-vin eu si scriu un mesaj
+vin eu si scriu un mesaj - doar prima linie
 doar linia 2
