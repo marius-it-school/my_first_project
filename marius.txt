@@ -1,2 +1,2 @@
 vin eu si scriu un mesaj
-doar linia 2
+doar linia 2 + 100
